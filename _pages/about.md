@@ -17,10 +17,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧑 About me
+I am currently a first-year Ph.D. student at [Nanyang Technological University](https://www.ntu.edu.sg/), working under the supervision of [Prof. Ziwei Wang](https://ziweiwangthu.github.io/) in [PINE Lab](https://pine-lab-ntu.github.io/).
+I received the Master degree at [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I was advised by [Prof. Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq/). 
+Prior to that, I received my B.Eng. degree in Electronic and Information Engineering from [Tongji University](https://en.tongji.edu.cn/). 
 
-I am currently a 3rd-Year Master student at [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the guidance of [Prof. Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq/). I got B.Eng. degree in College of Electronic and Information Engineering at [Tongji University](https://en.tongji.edu.cn/). 
-
-Currently, my research topic is 3D computer vision, with a particular focus on 3D object detection for autonomous driving and robot manipulation. (e.g. BEV, OCC)
+My current research focuses on Embodied AI, with particular emphasis on world models and vision-language models (VLMs) for robotics.
 
 **I am looking for a PhD position in Fall, 2025.**
  
@@ -65,6 +66,18 @@ Currently, my research topic is 3D computer vision, with a particular focus on 3
 </div>
 
 # 📄 Preprint Papers
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/imowm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="https://arxiv.org/abs/2510.09036" style="font-size: 22px; color: #483D8B; text-decoration: none">**iMoWM: Taming Interactive Multi-Modal World Model for Robotic Manipulation**</a><br>
+<span style="font-size: 18px;">**Chuanrui Zhang**, Zhengxian Wu, Guanxing Lu, Yansong Tang, Ziwei Wang</span><br>
+<span style="font-size: 18px;">[**Website**](https://xingyoujun.github.io/imowm) [**Paper**](https://arxiv.org/abs/2510.09036)   [**Code Coming**](#TODO)</span>
+
+<span style="font-size: 18px;">-  We present iMoWM, an interactive multi-modal world model for robotic manipulation.</span>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/voxelformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
