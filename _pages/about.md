@@ -22,33 +22,58 @@ I received the Master degree at [Tsinghua University](https://www.tsinghua.edu.c
 Prior to that, I received my B.Eng. degree in Electronic and Information Engineering from [Tongji University](https://en.tongji.edu.cn/). 
 
 My current research focuses on Embodied AI, with particular emphasis on world models and vision-language models (VLMs) for robotics.
-
-**I am looking for a PhD position in Fall, 2025.**
  
 [github](https://github.com/xingyoujun) / [google scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=sBYo2zQAAAAJ) / [cv](files/CV_chuanruizhang.pdf)
 
 <br>
 
 # 🔥 News
+* 2026.03:  🎉🎉 1 paper accepted to CVPR 2026 !!!
 * 2024.12:  🎉🎉 1 paper accepted to AAAI 2025 !!!
 
 <br>
 
 # 💻 Experience
 
-- 05/2023~now, I was a full-time intern at the [Tencent Robotics X](https://roboticsx.tencent.com/#/).
+- 09/2025~03/2026, Work at the [ByteDance Seed Robotics](https://seed.bytedance.com/zh/direction/robotics).
+- 05/2023~12/2024, I was a full-time intern at the [Tencent Robotics X](https://roboticsx.tencent.com/#/).
 
 <br>
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/coders_results.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/unipr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a href="https://arxiv.org/abs/2407.06984" style="font-size: 22px; color: #483D8B; text-decoration: none">**Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images**</a><br>
-<span style="font-size: 18px;">**Chuanrui Zhang\*** , Yonggen Ling\*†, Minglei Lu, Minghan Qin, Haoqian Wang†</span><br>
-<span style="font-size: 18px;">[**Website**](https://xingyoujun.github.io/coders)   [**Paper**](https://arxiv.org/abs/2407.06984)   [**Code**](#todo)</span>
+<a href="https://arxiv.org/abs/2603.19616" style="font-size: 22px; color: #483D8B; text-decoration: none">**UniPR: Unified Object-level Real-to-Sim Perception and Reconstruction from a Single Stereo Pair**</a><br>
+<span style="font-size: 18px;">**Chuanrui Zhang\***, Yingshuang Zou\*, Zhengxian Wu, Yonggen Ling†✉, YuxiaoYang, Ziwei Wang✉</span><br>
+<span style="font-size: 18px;">[**Website**](https://xingyoujun.github.io/unipr) [**Paper**](https://arxiv.org/abs/2603.19616)   [**Code**](https://github.com/xingyoujun/unipr)</span>
 
-<span style="font-size: 18px;">-  We present CODERS, a one-stage approach for Category-level Object Detection, pose Estimation and Reconstruction from Stereo images.</span>
+<span style="font-size: 18px;">-  We present UniPR, an end-to-end stereo framework that unifies 6D pose estimation and metric-scale 3D shape reconstruction, achieving up to 100× faster generation and 3× better shape-proportion accuracy for real-to-sim robotic manipulation.</span>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/lmgait.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="https://arxiv.org/abs/2601.11931" style="font-size: 22px; color: #483D8B; text-decoration: none">**LMGait: Language-Guided and Motion-Aware Gait Representation for Generalizable Recognition**</a><br>
+<span style="font-size: 18px;">Zhengxian Wu\*, **Chuanrui Zhang\***, Shenao Jiang\*, Hangrui Xu, Zirui Liao, Luyuan Zhang, Huaqiu Li, Peng Jiao, Haoqian Wang</span><br>
+<span style="font-size: 18px;">[**Website**](https://dingwu1021.github.io/LMGait) [**Paper**](https://arxiv.org/abs/2601.11931)   [**Code**](https://github.com/DingWu1021/LMGait)</span>
+
+<span style="font-size: 18px;">-  We present LMGait, a Language-Guided and Motion-Aware Gait Representation.</span>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMVC 2025</div><img src='images/mudg.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="https://arxiv.org/abs/2503.10604" style="font-size: 22px; color: #483D8B; text-decoration: none">**MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**</a><br>
+<span style="font-size: 18px;">Yingshuang Zou\*, Yikang Ding\*, **Chuantui Zhang**, Xiaoyang Lyu, Feiyang Tan, Xiaojuan Qi, Haoqian Wang†</span><br>
+<span style="font-size: 18px;">[**Website**](https://heiheishuang.xyz/mudg/) / [**Paper**](https://arxiv.org/abs/2503.10604) / [**Code**](https://github.com/heiheishuang/MuDG)</span>
+
+<span style="font-size: 18px;">- We present MuDG, a controllable Multi-modal Diffusion model with Gaussian Splatting (GS) for Urban Scene Reconstruction.</span>
 
 </div>
 </div>
@@ -61,6 +86,30 @@ My current research focuses on Embodied AI, with particular emphasis on world mo
 <span style="font-size: 18px;">[**Website**](https://xingyoujun.github.io/transplat) [**Paper**](https://arxiv.org/abs/2408.13770)   [**Code**](https://github.com/xingyoujun/transplat)</span>
 
 <span style="font-size: 18px;">-  We present TranSplat, a transformer-based approach for generalizable 3D gaussian splatting from sparse multi-view images.</span>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025 Oral</div><img src='images/dagait.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="https://arxiv.org/abs/2503.18830" style="font-size: 22px; color: #483D8B; text-decoration: none">**DAGait: Generalized Skeleton-Guided Data Alignment for Gait Recognition**</a><br>
+<span style="font-size: 18px;">Zhengxian Wu\*, **Chuanrui Zhang\***, Hangrui Xu, Peng Jiao, Haoqian Wang</span><br>
+<span style="font-size: 18px;">[**Website**](https://dingwu1021.github.io/DAGait/) [**Paper**](https://arxiv.org/abs/2503.18830)   [**Code**](https://github.com/DingWu1021/DAGait)</span>
+
+<span style="font-size: 18px;">-  We present DAGait, a universal data alignment strategy for gait recognition, to alleviate spatiotemporal distribution inconsistencies.</span>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/coders_results.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="https://arxiv.org/abs/2407.06984" style="font-size: 22px; color: #483D8B; text-decoration: none">**Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images**</a><br>
+<span style="font-size: 18px;">**Chuanrui Zhang\*** , Yonggen Ling\*†, Minglei Lu, Minghan Qin, Haoqian Wang†</span><br>
+<span style="font-size: 18px;">[**Website**](https://xingyoujun.github.io/coders)   [**Paper**](https://arxiv.org/abs/2407.06984)   [**Code**](https://github.com/xingyoujun/coders)</span>
+
+<span style="font-size: 18px;">-  We present CODERS, a one-stage approach for Category-level Object Detection, pose Estimation and Reconstruction from Stereo images.</span>
 
 </div>
 </div>
