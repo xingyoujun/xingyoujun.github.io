@@ -28,6 +28,7 @@ My current research focuses on Embodied AI, with particular emphasis on world mo
 <br>
 
 # 🔥 News
+* 2026.04:  🎉🎉 1 paper accepted to SIGGRAPH 2026 !!!
 * 2026.03:  🎉🎉 1 paper accepted to CVPR 2026 !!!
 * 2024.12:  🎉🎉 1 paper accepted to AAAI 2025 !!!
 
@@ -145,3 +146,14 @@ My current research focuses on Embodied AI, with particular emphasis on world mo
 - Excellent Graduates, Shanghai, 2022.
 - Scholarship, Tongji University, 2019-2022.
 - Nation Scholarship, 2018.
+
+<br>
+
+# 🌍 Visitor Map
+
+<div style="width: 30%; display: flex; justify-content: center; margin-top: 20px;">
+  <!-- <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=wfGaAAUbenCGKd8V-0ayBr-v9vPZwP86X8evN4XXjD8"></script> -->
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=3nfFFg9Flid4bbpapUyemSgp-nUj6KOf3yXD68INb8k&cl=ffffff&w=a"></script>
+</div>
+
+
