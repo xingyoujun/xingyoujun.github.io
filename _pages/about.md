@@ -84,7 +84,7 @@ My current research focuses on Embodied AI, with particular emphasis on world mo
 <div class='paper-box-text' markdown="1">
 
 <a href="https://arxiv.org/abs/2503.10604" style="font-size: 22px; color: #483D8B; text-decoration: none">**MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**</a><br>
-<span style="font-size: 18px;">Yingshuang Zou\*, Yikang Ding\*, **Chuantui Zhang**, Xiaoyang Lyu, Feiyang Tan, Xiaojuan Qi, Haoqian Wang†</span><br>
+<span style="font-size: 18px;">Yingshuang Zou\*, Yikang Ding\*, **Chuanrui Zhang**, Xiaoyang Lyu, Feiyang Tan, Xiaojuan Qi, Haoqian Wang†</span><br>
 <span style="font-size: 18px;">[**Website**](https://heiheishuang.xyz/mudg/) / [**Paper**](https://arxiv.org/abs/2503.10604) / [**Code**](https://github.com/heiheishuang/MuDG)</span>
 
 <span style="font-size: 18px;">- We present MuDG, a controllable Multi-modal Diffusion model with Gaussian Splatting (GS) for Urban Scene Reconstruction.</span>
