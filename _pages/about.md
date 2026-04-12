@@ -37,11 +37,24 @@ My current research focuses on Embodied AI, with particular emphasis on world mo
 # 💻 Experience
 
 - 09/2025~03/2026, Work at the [ByteDance Seed Robotics](https://seed.bytedance.com/zh/direction/robotics).
-- 05/2023~12/2024, I was a full-time intern at the [Tencent Robotics X](https://roboticsx.tencent.com/#/).
+- 10/2024~03/2025, Work at the [MegviiTech](https://www.megvii.com/).
+- 05/2023~10/2024, Work at the [Tencent Robotics X](https://roboticsx.tencent.com/#/).
 
 <br>
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2026</div><img src='images/simart.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="https://arxiv.org/abs/2603.23386" style="font-size: 22px; color: #483D8B; text-decoration: none">**SimArt: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM**</a><br>
+<span style="font-size: 18px;">**Chuanrui Zhang**, Minghan Qin†, Yuang Wang, Baifeng Xie, Hang Li, Ziwei Wang†</span><br>
+<span style="font-size: 18px;">[**Website**](https://simart-mllm.github.io/) [**Paper**](https://arxiv.org/abs/2603.23386)</span>
+
+<span style="font-size: 18px;">-  SIMART is a unified multimodal large language model framework that converts static 3D meshes into simulation-ready articulated assets.</span>
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/unipr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
