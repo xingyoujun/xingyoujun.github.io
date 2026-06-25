@@ -28,6 +28,7 @@ My current research focuses on Embodied AI, with particular emphasis on world mo
 <br>
 
 # 🔥 News
+* 2026.06:  🎉🎉 1 paper accepted to IROS 2026 !!!
 * 2026.04:  🎉🎉 1 paper accepted to SIGGRAPH 2026 !!!
 * 2026.03:  🎉🎉 1 paper accepted to CVPR 2026 !!!
 * 2024.12:  🎉🎉 1 paper accepted to AAAI 2025 !!!
@@ -43,6 +44,18 @@ My current research focuses on Embodied AI, with particular emphasis on world mo
 <br>
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2026</div><img src='images/rodyn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="https://arxiv.org/abs/2510.09036" style="font-size: 22px; color: #483D8B; text-decoration: none">**RoDyn: Taming Interactive Robot-Dynamic 2.5D World Model for Robotic Manipulation**</a><br>
+<span style="font-size: 18px;">**Chuanrui Zhang**, Zhengxian Wu, Guanxing Lu, Yansong Tang, Ziwei Wang</span><br>
+<span style="font-size: 18px;">[**Website**](https://xingyoujun.github.io/rodyn) [**Paper**](https://arxiv.org/abs/2510.09036)   [**Code Coming**](#TODO)</span>
+
+<span style="font-size: 18px;">-  We present RoDyn, a Robot-Dynamic 2.5D world model that bridges the inference efficiency of 2D video models with the spatial awareness of 3D models, establishing SOTA generation fidelity and improving real-world imitation learning success rates by over 42%.</span>
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2026</div><img src='images/simart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -129,18 +142,6 @@ My current research focuses on Embodied AI, with particular emphasis on world mo
 </div>
 
 # 📄 Preprint Papers
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/imowm.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<a href="https://arxiv.org/abs/2510.09036" style="font-size: 22px; color: #483D8B; text-decoration: none">**iMoWM: Taming Interactive Multi-Modal World Model for Robotic Manipulation**</a><br>
-<span style="font-size: 18px;">**Chuanrui Zhang**, Zhengxian Wu, Guanxing Lu, Yansong Tang, Ziwei Wang</span><br>
-<span style="font-size: 18px;">[**Website**](https://xingyoujun.github.io/imowm) [**Paper**](https://arxiv.org/abs/2510.09036)   [**Code Coming**](#TODO)</span>
-
-<span style="font-size: 18px;">-  We present iMoWM, an interactive multi-modal world model for robotic manipulation.</span>
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/voxelformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

@@ -18,6 +18,13 @@ gem "github-pages", group: :jekyll_plugins
 
 gem "ffi", "< 1.17.0"
 
+# These used to ship with Ruby but were removed from the default gems in
+# Ruby 3.4 / 4.0. Jekyll 3.9 still needs them.
+gem "csv"
+gem "base64"
+gem "logger"
+gem "bigdecimal"
+
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!
