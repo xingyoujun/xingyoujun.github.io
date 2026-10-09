@@ -15,19 +15,25 @@ var breaks = [];
 function updateNav() {
 
   var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
+  // The site-title item (.masthead__menu-item--lg) never moves to the dropdown.
+  var $movable = $vlinks.children('*:not(.masthead__menu-item--lg)');
 
   // The visible list is overflowing the nav
   if($vlinks.width() > availableSpace) {
 
-    // Record the width of the list
-    breaks.push($vlinks.width());
+    // Nothing left to move (only the site title is visible): stop instead of recursing forever.
+    if($movable.length) {
 
-    // Move item to the hidden list
-    $vlinks.children('*:not(.masthead__menu-item--lg)').last().prependTo($hlinks);
+      // Record the width of the list
+      breaks.push($vlinks.width());
 
-    // Show the dropdown btn
-    if($btn.hasClass('hidden')) {
-      $btn.removeClass('hidden');
+      // Move item to the hidden list
+      $movable.last().prependTo($hlinks);
+
+      // Show the dropdown btn
+      if($btn.hasClass('hidden')) {
+        $btn.removeClass('hidden');
+      }
     }
 
   // The visible list is not overflowing
@@ -51,8 +57,8 @@ function updateNav() {
   // Keep counter updated
   $btn.attr("count", breaks.length);
 
-  // Recur if the visible list is still overflowing the nav
-  if($vlinks.width() > availableSpace) {
+  // Recur while the visible list still overflows and an item can still be moved
+  if($vlinks.width() > availableSpace && $vlinks.children('*:not(.masthead__menu-item--lg)').length) {
     updateNav();
   }
 
