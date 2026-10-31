@@ -52,7 +52,7 @@ My current research focuses on Embodied AI, with particular emphasis on world mo
 
 <a href="https://arxiv.org/abs/2610.11322" style="font-size: 22px; color: #483D8B; text-decoration: none">**USDCraft: Geometrically Grounded Programmatic Modeling of Articulated 3D Assets for Simulation**</a><br>
 <span style="font-size: 18px;">**Chuanrui Zhang**, Zaijia Yang, Duomin Wang†, Lu Shi, Daquan Zhou, Ruihua Zhang, Ziwei Wang</span><br>
-<span style="font-size: 18px;">[**Website**](https://xingyoujun.github.io/usdcraft) [**Paper**](https://arxiv.org/abs/2610.11322)   [**Code Coming**](#TODO)</span>
+<span style="font-size: 18px;">[**Website**](https://xingyoujun.github.io/usdcraft) [**Paper**](https://arxiv.org/abs/2610.11322)   [**Code**](https://github.com/NVlabs/USDCraft)</span>
 
 <span style="font-size: 18px;">-  We present USDCraft, a framework in which a pretrained LLM writes and revises executable programs for simulation-ready articulated assets, grounded in measured source geometry, enabling real-to-sim-to-real robot manipulation.</span>
 
