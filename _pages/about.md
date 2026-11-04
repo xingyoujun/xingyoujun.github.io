@@ -28,7 +28,8 @@ My current research focuses on Embodied AI, with particular emphasis on world mo
 <br>
 
 # 🔥 News
-* 2026.10:  🚀 USDCraft is released on [arXiv](https://arxiv.org/abs/2610.11322) !!! Check out the [project page](https://xingyoujun.github.io/usdcraft).
+* 2026.11:  🚀 USDCraft is open-sourced !!! The [code](https://github.com/NVlabs/USDCraft) and the [USDCraft-10K dataset](https://huggingface.co/datasets/nvidia/USDCraft-10K) are released.
+* 2026.10:  🚀 USDCraft is released on [arXiv](https://arxiv.org/abs/2610.11322) !!! Check out the [project page](https://nvlabs.github.io/USDCraft/v1/).
 * 2026.06:  🎉🎉 1 paper accepted to IROS 2026 !!!
 * 2026.04:  🎉🎉 1 paper accepted to SIGGRAPH 2026 !!!
 * 2026.03:  🎉🎉 1 paper accepted to CVPR 2026 !!!
@@ -52,7 +53,7 @@ My current research focuses on Embodied AI, with particular emphasis on world mo
 
 <a href="https://arxiv.org/abs/2610.11322" style="font-size: 22px; color: #483D8B; text-decoration: none">**USDCraft: Geometrically Grounded Programmatic Modeling of Articulated 3D Assets for Simulation**</a><br>
 <span style="font-size: 18px;">**Chuanrui Zhang**, Zaijia Yang, Duomin Wang†, Lu Shi, Daquan Zhou, Ruihua Zhang, Ziwei Wang</span><br>
-<span style="font-size: 18px;">[**Website**](https://xingyoujun.github.io/usdcraft) [**Paper**](https://arxiv.org/abs/2610.11322)   [**Code**](https://github.com/NVlabs/USDCraft)</span>
+<span style="font-size: 18px;">[**Website**](https://nvlabs.github.io/USDCraft/v1/) [**Paper**](https://arxiv.org/abs/2610.11322)   [**Code**](https://github.com/NVlabs/USDCraft)   [**Dataset**](https://huggingface.co/datasets/nvidia/USDCraft-10K)</span>
 
 <span style="font-size: 18px;">-  We present USDCraft, a framework in which a pretrained LLM writes and revises executable programs for simulation-ready articulated assets, grounded in measured source geometry, enabling real-to-sim-to-real robot manipulation.</span>
 
